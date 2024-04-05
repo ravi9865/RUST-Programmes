@@ -1,0 +1,6 @@
+1. Navigate to the directory
+        cd path/to/your/directory
+2. Compile the Rust source file into an executable
+        rustc Programme1.rs
+3. Run the executable
+        ./Programme1
